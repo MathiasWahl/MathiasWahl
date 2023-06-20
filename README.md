@@ -1,4 +1,5 @@
-### Hi there 👋
+## Mathias Wahl
+![](https://komarev.com/ghpvc/?username=MathiasWahl&color=229922)
 
 <!--
 **MathiasWahl/MathiasWahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Python, C#, Django, Dotnet, REST, Grapgql, CircleCi, Github Actions, Docker, DigitalOcean, AWS, React, Vue, TypeScript, Javascript, Html, Css 
+
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MathiasWahl&theme=dark&border_radius=20&mode=weekly)](https://git.io/streak-stats)
