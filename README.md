@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Python, C#, Django, Dotnet, REST, Grapgql, CircleCi, Github Actions, Docker, DigitalOcean, AWS, React, Vue, TypeScript, Javascript, Html, Css 
 
--->
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MathiasWahl&theme=dark&border_radius=20&mode=weekly)](https://git.io/streak-stats)
+
+-->
